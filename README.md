@@ -23,9 +23,9 @@ git clone https://github.com/jkitaygorodsky/ELISA_visualizer
 ## Input
 Prior to running the tool, ensure that the column names of your file are compatible with the app, and that Timepoint information is filled in.
 
-Spike antibody levels: SmT1 IgG [dilution], SmT1 BAU/ml aggregated
-RBD antibody levels: RBD IgG [dilution], RBD BAU/ml aggregated
-NP antibody levels: NP IgG [dilution], NP BAU/ml aggregated
+* Spike antibody levels: SmT1 IgG [dilution], SmT1 BAU/ml aggregated
+* RBD antibody levels: RBD IgG [dilution], RBD BAU/ml aggregated
+* NP antibody levels: NP IgG [dilution], NP BAU/ml aggregated
 
 ## Running the Tool
 
