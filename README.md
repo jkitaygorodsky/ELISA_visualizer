@@ -6,14 +6,14 @@ Note, that this app is intended for use by clinical/research study staff ONLY, n
 Prerequisites
 To run the tool, you need R version 3.6.3 and the following libraries:
 
-*shiny
-*shinymanager
-*ggplot2
-*tidyverse
-*grid
-*gtable
-*gridExtra
-*gridtext
+* shiny
+* shinymanager
+* ggplot2
+* tidyverse
+* grid
+* gtable
+* gridExtra
+* gridtext
 
 Clone the repository:
 ```
